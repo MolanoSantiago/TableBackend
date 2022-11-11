@@ -1,0 +1,35 @@
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Serverless directories
+.serverless
+
+#VS Code directories
+.vscode
+
+# virtual environment
+venv/
+
+#plugin empaquetado dependencias
+node_modules/
+
+#files generated for testing
+__pycache__/
+.coverage
+.pytest_cache
+coverage.xml
