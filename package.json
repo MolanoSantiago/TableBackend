@@ -1,5 +1,5 @@
 {
-    "name": "integracion-credit-risk-back",
+    "name": "",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -12,7 +12,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://dev.azure.com/BTGColombia/BTG%20Colombia%20Desarrollo/_git/integracion-credit-risk-back"
+      "url": ""
     },
     "author": "",
     "license": "ISC"
