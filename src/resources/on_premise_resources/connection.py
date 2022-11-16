@@ -11,8 +11,8 @@ logger.setLevel(logging.INFO)
 class RTBColRelationalDbResource(IDBConnection):
     
     def __init__(self):
-        server_address = 'W03403USQL0\QAINST01'
-        db_name = 'dbRTBCol'
+        server_address = '\\'
+        db_name = '\\'
         self.connection = pyodbc.connect("DRIVER={SQL Server}; SERVER="+server_address+"; DATABASE ="+db_name+"; Trusted_Connection=yes;")
         
     
